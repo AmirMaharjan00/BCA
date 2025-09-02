@@ -1,0 +1,55 @@
+============
+Chapter - 1
+============
+1. Ethics
+2. Difference between ethics, morals and laws.
+3. Ethics in Business World, its principles and its types.
+4. CSR, its categories and its benefits( fostering CSR )
+5. Improving Business Ethics
+6. Ethical Consideration in decision making
+7. Ethics in IT
+8. Managing the relationship between IT worker and management
+9. Relationship between IT worker and client
+10. Encouraging professionalism of IT workers
+11. Professional Code of Ethics
+12. Certifications and licensing
+13. Encouraging ethical use of IT resources among users
+
+============
+Chapter - 2
+============
+1. 
+
+============
+Chapter - 4
+============
+1. Intellectual Property and Its types
+2. IPR benefits
+3. Copyright & issues related to it
+4. Patent
+5. Trade Secrets
+6. Intellectual Property Issues
+	6.1 Plagarism
+	6.2 Reverse Engineering
+	6.3 Open Source Code
+	6.4 Competitive Intelligence
+	6.5 Trademark Infringement
+	6.6 Cybersquatting
+
+============
+Chapter - 5
+============
+1. Software Quality and its Importance
+2. Software Product Liability and its key aspects
+3. Strategies for Developing Quality Software
+4. Use of contingent Workers
+	4.1 Advantage and disadvantage of contingent workers
+5. Deciding When to Use Contingent Workers
+6. H-1B Workers
+7. Outsourcing and its pros and cons, offshore outsourcing
+8 . Whistle-Blowing
+	8.1 Types of whistleblowing
+	8.2 Dealing with a whisle-bloging situation
+	8.3 Why Employess should "blow the whistle"
+	8.4 Pros and Cons
+9. Green Computing and its examples.

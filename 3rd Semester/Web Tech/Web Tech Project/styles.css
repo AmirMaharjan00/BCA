@@ -1,0 +1,425 @@
+/* Start */
+/* For Index.html, About US.html and others */
+* {
+    font-family: Helvetica;
+}
+body{
+    background-color: lightblue;
+}
+.footer {
+    background-color: rgb(49, 41, 49);
+    height: 350px;
+    width: 100%;
+    display: inline-flex;
+}
+.foot-column1 {
+    width: 40%;
+}
+.foot-column1 img {
+    height: 240px;
+    width: 350px;
+    padding: 55px;
+    margin-left: 30px;
+}
+.foot-column2 {
+    width: 25%;
+    padding: 20px 0 0 45px;
+    color: grey;
+}
+.foot-column2 p {
+    font-size: 30px;
+    padding: 5px;
+    border-bottom: 1px solid black;
+}
+.foot-column2 table {
+    font-size: 20px;
+    line-height: 35px
+}
+.foot-column2 table tr td {
+    width: 250px;
+}
+.foot-column3 {
+    padding: 25px 0 0 45px;
+    color: grey;
+}
+.foot-column3 h2 {
+    font-size: 30px;
+    padding: 5px;
+    border-bottom: 1px solid black;
+}
+.foot-column3 p {
+    font-size: 20px;
+    line-height: 15px;
+    padding: 5px;
+}
+/* Div one */
+#div-one {
+    margin: 0 100px 0 100px;
+}
+#div-one text {
+    font-size: 13px;
+    padding: 0 14px 0 5px;
+}
+#div-one img {
+    padding: 0 5px 0 5px;
+    height: 15px;
+    width: 15px;
+}
+/* Div two */
+#div-two {
+    margin: 0 100px 0 100px;
+}
+#div-two img {
+    height: 70px;
+    width: 70px;
+    float: left;
+    padding-right: 30px;
+}
+#div-two h1 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+#div-two p {
+    font-size: 15px;
+    color: black;
+    line-height: 0ex;
+}
+/* Div three */
+#div-three {
+    margin: 0 60px 0 60px;
+    width: 1210px;
+    text-align: center;
+}
+#div-three ol li {
+    list-style: none;
+    display: inline-flex;
+    padding: 13px;
+}
+#div-three ol li a {
+    text-decoration: none;
+    color: grey;
+    font-size: 22px;
+}
+#div-three img {
+    width: 1000px;
+}
+#Shahid {
+    width: 1340px;
+}
+/* Div four */
+#div-four {
+    margin: 0 70px 0 70px;
+    display: inline-flex;
+}
+#div-four .column1 {
+    height: auto;
+    width: 75%;
+    text-align: justify;
+    font-size: 17px;
+    letter-spacing: 0.3px;
+    line-height: 30px;
+}
+#div-four .column1 text {
+    font-size: 50px;
+    padding: 3px;
+    color: rgb(2, 2, 116);
+    border-bottom: 1px solid black;
+}
+#div-four .column1 span {
+    color: rgb(2, 2, 116);
+    border-bottom: 1px solid black;
+    font-size: 30px;
+    padding: 3px;
+}
+#div-four .column2 {
+    height: auto;
+    width: 220px;
+    text-align: left;
+    font-size: 17px;
+    margin: 100px 0 0 45px;
+}
+.column2 h2{
+    color: brown;
+}
+.column2 h4{
+    font-size: 15px;
+}
+.column2 p{
+    font-size: 12px;
+    color: grey;
+    line-height: 0.2em;
+}
+.column2 a{
+    text-decoration: none;
+    color: black;
+}
+.column2 a:hover{
+    color: rgb(0, 192, 0);
+}
+button {
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    background-color: transparent;
+}
+button:hover {
+    background-color: rgb(255, 0, 170);
+    color: white;
+}
+/* End */
+/* For Courses.html */
+/* Div five */
+.div-five {
+    margin: 0 100px 0 100px;
+}
+#table1 img {
+    height: 300px;
+    width: 300px;
+    padding: 30px 100px 30px 0;
+}
+/* div six */
+#div-six {
+    margin: 0 100px 0 100px;
+}
+.Ncolumn1 {
+    width: 860px;
+    float: left;
+}
+.column2 {
+    width: 230px;
+    float: right;
+    text-align: justify;
+    margin-top: 70px;
+}
+#Notices-h1 {
+    text-align: center;
+    background-color: rgba(0, 0, 117, 0.994);
+    color: white;
+    font-size: 50px;
+    padding: 10px;
+}
+.notices {
+    width: 240px;
+    margin: 20px;
+    float: left;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.notices img {
+    height: 240px;
+    width: 240px;
+    border-bottom: 1px solid black;
+}
+.notices p {
+    padding: 10px;
+    text-align: center;
+}
+/* Div-seven */
+#div-seven h1 {
+    text-align: center;
+    background-color: rgba(0, 0, 117, 0.994);
+    color: white;
+    font-size: 50px;
+    padding: 10px;
+}
+.dnav {
+    background-color: red;
+    text-align: justify;
+}
+.dnav ol li {
+    list-style: none;
+    display: inline-flex;
+    padding: 10px;
+    font-size: 25px;
+    width: 205px;
+    color: white;
+}
+.dnav li:hover {
+    background-color: rgb(0, 97, 15);
+}
+.bca-dropdown {
+    display: inline-block;
+    position: relative;
+}
+.bca-dropdown-content {
+    display: none;
+    position: absolute;
+    box-sizing: 0 8px 16px 0 rgb(100, 1, 1);
+}
+.bca-dropdown-content * {
+    margin: 0;
+    padding: 0;
+}
+.bca-dropdown:hover .bca-dropdown-content {
+    display: block;
+}
+.bca-dropdown-content a {
+    display: block;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(0, 147, 158);
+}
+/* Div-seven end */
+/* Div-eight */
+#div-eight {
+    margin: 0 70px 0 70px;
+    display: inline-flex;
+}
+.stu-pg-head * {
+    margin: 0;
+    padding: 0;
+}
+.stu-pg-head {
+    background-color: rgba(0, 0, 117, 0.994);
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    width: auto;
+}
+#div-eight p {
+    text-align: justify;
+    font-size: 18px;
+}
+.div-eight-col1 a {
+    text-decoration: none;
+    color: black;
+}
+.div-eight-col1 button:hover {
+    color: white;
+}
+.div-eight-col1 {
+    width: 80%;
+    margin: 0 25px 0 25px;
+}
+.div-eight-col1 text {
+    font-size: 40px;
+    margin: 10px 0 15px 0;
+    border-bottom: 1px solid rgb(96, 96, 171);
+    color: rgb(96, 96, 171);
+}
+.div-eight-col2 {
+    width: 20%;
+    text-align: justify;
+}
+/* Div-nine */
+#div-nine {
+    margin: 0 100px 0 100px;
+}
+#Links-h1 {
+    text-align: center;
+    background-color: rgba(0, 0, 117, 0.994);
+    color: white;
+    font-size: 50px;
+    padding: 10px;
+}
+#div-nine li {
+    font-size: 30px;
+}
+#div-nine li a {
+    text-decoration: none;
+    color: black;
+    margin: 15px;
+    line-height: 40px;
+}
+#div-nine li a:hover {
+    color: brown;
+}
+/*Div-ten*/
+#div-ten {
+    margin: 0 100px 0 100px;
+}
+.Contact-column1 {
+    margin-left: 18px;
+    height: auto;
+    width: 500px;
+    float: left;
+    letter-spacing: 1px;
+}
+.Contact-column1 img {
+    height: 20px;
+    width: auto;
+}
+.Contact-column1 h1 {
+    font-size: 50px;
+    line-height: 0.5em;
+}
+.Contact-column1 text {
+    line-height: 2em;
+    font-size: 20px;
+}
+.Contact-column2 {
+    height: auto;
+    width: 490px;
+    float: right;
+    margin-top: 5px;
+
+}
+.Contact-column2 thead input {
+    width: 215px;
+    height: 30px;
+    margin-right: 20px;
+    padding: 10px 25px 10px 15px;
+    background-color: rgb(79, 207, 207);
+    font-size: 20px;
+}
+.Contact-column2 tbody input {
+    width: 500px;
+    height: 30px;
+    margin: 5px 0 5px 0;
+    padding: 10px 25px 10px 15px;
+    background-color: rgb(79, 207, 207);
+    font-size: 20px;
+}
+.Contact-column2 textarea {
+    width: 538px;
+    height: 120px;
+    margin: 5px 0 5px 0;
+    background-color: rgb(79, 207, 207);
+    font-size: 20px;
+}
+.Contact-column2 button {
+    background-color: green;
+    padding: 10px;
+    width: 130px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+/* Div-Eleven */
+.Ghead {
+    text-align: center;
+    background-color: rgba(0, 0, 117, 0.994);
+    padding: 10px;
+    color: white;
+    font-size: 50px;
+}
+#div-eleven {
+    margin: 0 70px 0 70px;
+}
+.Gcolumn1 {
+    float: left;
+    width: 945px;
+}
+.gallery {
+    float: left;
+    margin: 17px;
+    width: 200px;
+    border: 1px solid grey;
+    border-radius: 5px; 
+}
+.gallery img {
+    height: 200px;
+    width: 200px;
+    border-bottom: 1px solid grey;
+}
+.gallery p {
+    padding: 5px;
+    text-align: center;
+}
+.Gcolumn2 {
+    width: 230px;
+    float: right;
+    margin-top: 70px;
+    text-align: justify;
+}

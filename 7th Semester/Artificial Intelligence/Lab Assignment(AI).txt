@@ -1,0 +1,21 @@
+Lab Assignment
+problem solving
+1.write a python program for the implementation of vacuum cleaner
+2.write a python program for the implementation of depth first search(DFS)
+3.write a python program for the implementation of breadth first search(BFS)
+4.write a python program for the implementation of uniform cost search
+5.write a python program for the implementation of greedy best first search
+6.write a python program for the implementation of A* search
+
+Knowledge representation
+1.implement logic programming using prolog
+2.Write a prolog program to represent few basic facts and perform queries (Elephant is an animal. Elephant is bigger than horse) etc.
+3.WAP in prolog to implement simple arithmetic
+4.write a prolog program to convert the sentences into FOPL and to execute queries
+5.write a prolog program to create a knowledge base of sentences and to execute queries
+
+machine learning and neural network
+1.write a python program to implement AND, OR gate using perceptron algorithm
+2.write a python program to illustrate working of backpropagation algorithm 
+
+due date:-9th march
